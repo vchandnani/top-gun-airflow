@@ -6,3 +6,6 @@
 
 # application log files
 logs/
+
+# python cache
+dags/__pycache__/
