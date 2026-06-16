@@ -2,6 +2,14 @@
 
 Technology Playground: Apache Airflow, Docker, and AWS.
 
+## References
+
+https://docs.docker.com/get-started/
+
+https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html
+
+https://medium.com/better-programming/apache-airflow-on-docker-with-aws-s3-3abaf6874a49
+
 ## High-Level Design
 
 1. Install prerequisites.
